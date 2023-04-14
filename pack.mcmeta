@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 9,
+        "description": [
+			{"text":"Black Adam Resource Pack","color":"gold"},{"text":"\n"},
+			{"text":"Made by ","color":"light_purple"},{"text":"Simiae","color":"blue"},{"text":"\n"},
+			{"text":"Version: ","color":"dark_gray"},{"text":"1.19.2","color":"gray"}
+		]
+    }
+}
