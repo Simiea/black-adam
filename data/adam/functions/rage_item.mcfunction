@@ -1,0 +1,2 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{display:{Name:'{"text":"Rage","color":"dark_red","bold":true,"italic":false}'},HideFlags:127,CustomModelData:16041574,rage:1b}}}
+scoreboard players set @a[scores={rage=10}] rage 0

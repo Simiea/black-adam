@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "adam:shazam"
+      }
+    }
+  },
+  "rewards": {
+    "function": "adam:shazam/craft"
+  }
+}
